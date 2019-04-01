@@ -1,0 +1,28 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/wehapp/2019-03-31_192156.png">
+  <Marks>
+    <LengthMark x="587" y="241" color="16711680" length="95" direction="3"/>
+    <LengthMark x="269" y="274" color="16711680" length="22" direction="12"/>
+    <LengthMark x="400" y="272" color="16711680" length="22" direction="12"/>
+    <LengthMark x="560" y="338" color="16711680" length="32" direction="3"/>
+    <LengthMark x="556" y="516" color="16711680" length="62" direction="3"/>
+    <LengthMark x="272" y="595" color="16711680" length="37" direction="12"/>
+    <LengthMark x="997" y="601" color="16711680" length="48" direction="12"/>
+    <LengthMark x="812" y="436" color="16711680" length="76" direction="12"/>
+    <LengthMark x="870" y="619" color="16711680" length="37" direction="3"/>
+    <ColorMark x="301" y="945" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="275" y="739" color="16711680" length="150" direction="3"/>
+    <LengthMark x="298" y="560" color="16711680" length="160" direction="3"/>
+    <LengthMark x="446" y="356" color="16711680" length="190" direction="3"/>
+    <LengthMark x="267" y="1091" color="16711680" length="770" direction="12"/>
+    <LengthMark x="525" y="1218" color="16711680" length="80" direction="3"/>
+    <LengthMark x="433" y="1218" color="16711680" length="17" direction="3"/>
+    <LengthMark x="435" y="1263" color="16711680" length="39" direction="3"/>
+    <LengthMark x="284" y="995" color="16711680" length="615" direction="3"/>
+    <LengthMark x="1017" y="1470" color="16711680" length="20" direction="12"/>
+    <LengthMark x="275" y="1636" color="16711680" length="708" direction="3"/>
+    <LengthMark x="277" y="2364" color="16711680" length="715" direction="3"/>
+    <LengthMark x="268" y="205" color="16711680" length="768" direction="12"/>
+    <ColorMark x="517" y="287" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="366" y="520" color="16711680" length="17" direction="3"/>
+  </Marks>
+</MKM>

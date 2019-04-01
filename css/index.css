@@ -1,0 +1,283 @@
+.container{
+	width: 100%;
+	/* height: 2000px;
+	background: pink; */
+	max-width: 770px;
+	min-width: 320px;
+	margin: 0 auto;
+}
+.left,.right{
+	width: 40px;
+	height: 40px;
+	border: 1px solid burlywood;
+	line-height: 40px;
+	text-align: center;
+	/* background: burlywood; */
+	border-radius: 50%;
+	font-size: 30px;
+	color: #fff;
+}
+.left{
+	position: absolute;
+	top: 30px;
+	left: 40px;
+}
+.right{
+
+	position: absolute;
+	top: 30px;
+	right: 40px;
+}
+.top{
+		position: relative;
+}
+.top img{
+	width: 100%;
+
+}
+.qiehuan{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 96px;
+	width: 100%;
+	
+	line-height: 96px;
+	box-sizing: border-box;
+	background: rgba(250,250,250,0.2);
+}
+.qiehuan i img{
+	width: 40px;
+}
+.qiehuan b{
+	font-size: 40px;
+	color: #fff;
+}
+.qiehuan a{
+	margin-left: 10px;
+	color: #ffff00;
+	font-size: 20px;
+}
+.qiehuan span{
+	position: absolute;
+	top: 0;
+	right: 20px;
+	font-size: 26px;
+	
+	color: #fff;
+}
+/* 顶部结束 */
+.banner{
+	/* height: 180px; */
+	margin: 20px 0;
+	box-sizing: border-box;
+	/* background: yellow; */
+}
+.banner ul{
+	display: flex;
+	justify-content:space-around ;
+}
+.banner ul li{
+
+	font-size: 30px;
+	color: #000;
+	}
+@media only screen and (max-width: 500px){
+    .banner ul li {
+        font-size:20px
+		
+		}
+
+}
+.banner ul li:nth-child(1) i{
+	display: block;
+	height: 120px;
+	background: url(../img/l01.png)no-repeat;
+    background-size: 100%;
+}
+.banner ul li:nth-child(2) i{
+	display: block;
+	height: 120px;
+	background: url(../img/l02.png)no-repeat;
+	background-size: 100%;
+}
+.banner ul li:nth-child(3) i{
+	display: block;
+	height: 120px;
+	background: url(../img/l03.png)no-repeat;
+	background-size: 100%;
+}
+.banner ul li:nth-child(4) i{
+	display: block;
+	height: 120px;
+	background: url(../img/l04.png)no-repeat;
+	background-size: 100%;
+}
+.nav{
+	height: 150px;
+	/* background: red; */
+	display: flex;
+}
+.nav ul{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.nav ul li{
+	width: 33.33%;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+.nav ul li a{
+	font-size: 2vw;
+}
+.nav ul li img{
+	width: 20%;
+}
+.hot{
+	/* height: 620px; */
+	box-sizing: border-box;
+	/* background: orange; */
+	position: relative;
+}
+.reMen i{
+	display: inline-block;
+	width: 5px;
+	height: 30px;
+	background: green;
+}
+.reMen p{
+	box-sizing: border-box;
+	display: inline-block;
+	margin-left: 4%;
+	margin-top: 4%;
+}
+.reMen b{
+	font-size: 30px;
+	color: #000;
+}
+.reMen span{
+	position: absolute;
+	top:4%;
+	right: 4%;
+	font-size: 25px;
+	color: #999999;
+}
+.jingdian{
+	margin-top: 20px;
+	box-sizing: border-box;
+	display: flex;
+}
+.jingdian ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.jingdian li{
+	width: 50%;
+}
+.jingdian li img{
+	width: 90%;
+	height: 80%;
+}
+.jingdian li p{
+	font-size: 2vw;
+	color: #000;
+}
+
+.zuiJia li{
+	display: flex;
+	margin-left: 4%;
+	height: 60px;
+	line-height: 60px;
+ 
+	font-size: 2vw;
+	border-bottom: 1px solid #ccc;
+}
+.zuiJia li a{
+	color: #000;
+}
+.zuiJia li a:hover{
+	color: #000;
+}
+.zuiJia li a:nth-child(1){
+	flex: 9;
+}
+.zuiJia li a:nth-child(2){
+	flex: 1;
+}
+.quGuo{
+	margin-top: 40px;
+	height: 80px;
+	background: green;
+	
+	display: flex;
+}
+.quGuo a{
+	width: 50%;
+	font-size: 2vw;
+	color: #fff;
+	box-sizing: border-box;
+	text-align: center;
+	line-height: 80px;
+}
+
+ .quGuo a:nth-child(1){
+	border-right: 1px solid #ccc;
+}
+.biJie{
+	height: 270px;
+}
+.biJie ul{
+	display: flex;
+	flex-wrap: wrap;
+	height: 60px;
+	line-height: 60px;
+	justify-content: space-around;
+}
+.biJie li{
+	width: 26%;
+	font-size: 2vw;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	border-radius: 50px;
+	margin: 10px 0;
+	text-align: center;
+}
+.biJie li:nth-child(9){
+	border: none;
+}
+.biJie a{
+	color: #000;
+}
+
+/* footer开始 */
+.footer{
+	height: 200px;
+}
+.footer ul{
+	display: flex;
+	flex-wrap: wrap;
+	/* height: 50px;
+	line-height: 50px; */
+	margin-bottom: 20px;
+	justify-content: space-around;
+}
+.footer li{
+	width: 25%;
+	height: 50px;
+	line-height: 50px;
+	font-size: 1vw;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+}
+.footer p{
+	text-align: center;
+	font-size: 30px;
+}
+.footer a{
+	color: #000;
+}
