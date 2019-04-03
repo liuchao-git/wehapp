@@ -1,0 +1,24 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/wehapp/2019-04-01_213601.png">
+  <Marks>
+    <LengthMark x="541" y="0" color="16711680" length="473" direction="3"/>
+    <LengthMark x="364" y="2" color="16711680" length="86" direction="3"/>
+    <LengthMark x="595" y="472" color="16711680" length="70" direction="3"/>
+    <LengthMark x="637" y="542" color="16711680" length="25" direction="3"/>
+    <LengthMark x="666" y="566" color="16711680" length="26" direction="3"/>
+    <ColorMark x="555" y="606" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="651" y="771" color="16711680" length="124" direction="3"/>
+    <LengthMark x="269" y="32" color="16711680" length="36" direction="12"/>
+    <LengthMark x="1014" y="38" color="16711680" length="22" direction="12"/>
+    <LengthMark x="742" y="564" color="16711680" length="1228" direction="3"/>
+    <LengthMark x="467" y="566" color="16711680" length="97" direction="3"/>
+    <ColorMark x="773" y="605" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="791" y="609" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="343" y="671" color="16711680" length="264" direction="3"/>
+    <LengthMark x="413" y="935" color="16711680" length="278" direction="3"/>
+    <LengthMark x="317" y="934" color="16711680" length="97" direction="3"/>
+    <LengthMark x="500" y="1213" color="16711680" length="283" direction="3"/>
+    <LengthMark x="405" y="1492" color="16711680" length="301" direction="3"/>
+    <ColorMark x="658" y="751" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="638" y="2207" color="16711680" length="370" direction="3"/>
+  </Marks>
+</MKM>
