@@ -1,0 +1,16 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/wehapp/2019-04-07_211616.png">
+  <Marks>
+    <LengthMark x="270" y="43" color="16711680" length="767" direction="12"/>
+    <LengthMark x="819" y="0" color="16711680" length="87" direction="3"/>
+    <ColorMark x="542" y="62" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="336" y="144" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="864" y="88" color="16711680" length="121" direction="3"/>
+    <LengthMark x="578" y="108" color="16711680" length="80" direction="3"/>
+    <LengthMark x="425" y="189" color="16711680" length="20" direction="3"/>
+    <LengthMark x="451" y="88" color="16711680" length="20" direction="3"/>
+    <LengthMark x="268" y="140" color="16711680" length="30" direction="12"/>
+    <LengthMark x="1006" y="148" color="16711680" length="30" direction="12"/>
+    <LengthMark x="598" y="414" color="16711680" length="86" direction="3"/>
+    <LengthMark x="299" y="551" color="16711680" length="280" direction="12"/>
+  </Marks>
+</MKM>
