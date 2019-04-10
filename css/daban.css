@@ -1,0 +1,82 @@
+.container{
+		width: 100%;
+		/* background: pink; */
+		max-width: 750px;
+		min-width: 320px;
+		margin: 0 auto;
+	}
+	.attention img{
+		width: 100%;
+	}
+	.banner ul{
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+	.banner li{
+		padding: 15px;
+	}
+	.banner p{
+		font-size: 25px;
+		}
+		.nav{
+			margin-top: 20px;
+			display: flex;
+		}
+		.center{
+			padding: 2px 10px;
+			display: flex;
+			margin-top: 20px;
+			justify-content: space-between;
+		}
+		.center li img{
+			width: 220px;
+		}
+		.center p{
+			text-align: center;
+			font-size: 25px;
+		}
+		.tiao{
+			display: flex;
+
+			width: 100%;
+			height: 60px;
+			margin-top: 20px;
+			background: darkblue;
+		}
+		.tiao p:nth-child(1){
+			margin: 5px 10px 0 20px;
+			width: 10px;
+			height: 50px;
+			background: #09f;
+		}
+		.tiao p:nth-child(2){
+			flex: 8;
+			line-height: 60px;
+			font-size: 25px;
+			color: #09f;
+		}
+		.tiao span{
+			flex: 1;
+			line-height: 60px;
+			font-size: 20px;
+			color: #CCCCCC;
+		}
+		.zhanshi{
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+		}
+		.zhanshi img{
+			width: 340px;
+		}
+		.zhanshi p{
+			font-size: 30px;
+			text-align: center;
+			padding: 20px 0;
+			}
+			.footer{
+				margin-top: 30px;
+				font-size: 35px;
+				text-align: center;
+			}
